@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj": {}
+    "D:\\Documentos\\BibliotecaDeJogos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj": {
+    "D:\\Documentos\\BibliotecaDeJogos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj",
+        "projectUniqueName": "D:\\Documentos\\BibliotecaDeJogos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj",
         "projectName": "Biblioteca_de_Jogos",
-        "projectPath": "D:\\Documentos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj",
+        "projectPath": "D:\\Documentos\\BibliotecaDeJogos\\Biblioteca_de_Jogos\\Biblioteca_de_Jogos.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Biblioteca_de_Jogos\\obj\\",
+        "outputPath": "D:\\Documentos\\BibliotecaDeJogos\\Biblioteca_de_Jogos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",

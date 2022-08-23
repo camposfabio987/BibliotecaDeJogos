@@ -1,0 +1,14 @@
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\bin\Debug\netcoreapp3.1\Biblioteca_de_Jogos.exe
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\bin\Debug\netcoreapp3.1\Biblioteca_de_Jogos.deps.json
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\bin\Debug\netcoreapp3.1\Biblioteca_de_Jogos.runtimeconfig.json
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\bin\Debug\netcoreapp3.1\Biblioteca_de_Jogos.runtimeconfig.dev.json
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\bin\Debug\netcoreapp3.1\Biblioteca_de_Jogos.dll
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\bin\Debug\netcoreapp3.1\Biblioteca_de_Jogos.pdb
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.csproj.AssemblyReference.cache
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.AssemblyInfoInputs.cache
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.AssemblyInfo.cs
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.csproj.CoreCompileInputs.cache
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.dll
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.pdb
+D:\Documentos\BibliotecaDeJogos\Biblioteca_de_Jogos\obj\Debug\netcoreapp3.1\Biblioteca_de_Jogos.genruntimeconfig.cache

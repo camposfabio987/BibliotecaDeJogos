@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Biblioteca_de_Jogos
+namespace Biblioteca_de_Jogos.Classes
 {
     internal class Jogo
     {
         // ATRIBUTOS
 
-        String titulo;
-        String genero;
-        int ano;
-        int maxJogadores;
-        int metacritic;
+        public String titulo;
+        public String genero;
+        public int ano;
+        public int maxJogadores;
+        public int metacritic;
 
         // CONSTRUTORES
 
@@ -41,6 +41,26 @@ namespace Biblioteca_de_Jogos
             return this.titulo; 
         }
 
+        public int getAno()
+        {
+            return this.ano;
+        }
+
+        public String getGenero()
+        {
+            return this.genero;
+        }
+
+        public int getMaxJogadores()
+        {
+            return this.maxJogadores;
+        }
+
+        public int getMetaCritic()
+        {
+            return this.metacritic;
+        }
+
         // SETTER - MODIFICA VALOR DO ATRIBUTO
 
         public void setTitulo(String titulo)
@@ -51,10 +71,7 @@ namespace Biblioteca_de_Jogos
             }
         }
 
-        public int getAno()
-        {
-            return this.ano;
-        }
+        
 
 
 
